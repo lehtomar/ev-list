@@ -1,6 +1,3 @@
-// Auto-generated from database
-// Do not edit manually - run: node scripts/generate-models.js
-
 export const MODELS_BY_MAKE: Record<string, string[]> = {
   "Abarth": [
     "500e"
